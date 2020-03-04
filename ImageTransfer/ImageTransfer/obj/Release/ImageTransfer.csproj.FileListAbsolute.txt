@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\bin\Release\ImageTransfer.exe.config
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\bin\Release\ImageTransfer.exe
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\bin\Release\ImageTransfer.pdb
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\obj\Release\ImageTransfer.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\obj\Release\ImageTransfer.ImageTransfer.resources
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\obj\Release\ImageTransfer.Properties.Resources.resources
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\obj\Release\ImageTransfer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\obj\Release\ImageTransfer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\obj\Release\ImageTransfer.exe
+C:\Users\DELL\Desktop\ImageTransfer\ImageTransfer\obj\Release\ImageTransfer.pdb
